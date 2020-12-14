@@ -56,6 +56,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://stormkit.io |  
 | https://www.zoop.sh |
 | https://www.digitalocean.com/ |
+| https://glitch.com |
+| https://repl.it |
 
 [⬆ back to top](#table-of-contents)
 
@@ -145,6 +147,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://plixs.com | 
 | https://freephotos.cc | 
 | https://picjumbo.com | 
+| https://www.deviantart.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -178,6 +181,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://remixicon.com |
 | https://tablericons.com |
 | https://simpleicons.org |
+| https://thenounproject.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -231,6 +235,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [DevDiscuss](https://dev.to/devdiscuss) |
 | [DevNews](https://dev.to/devnews) |
 | [React Native Radio](https://reactnativeradio.com/) |
+| [StackOverflow's Podcast](https://stackoverflow.blog/podcast/)|
+| [Glitch's Podcasts](https://blog.glitch.com/category/podcasts) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -243,6 +249,8 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [Atom](https://atom.io/) |  
 | [Brackets](http://brackets.io/) |  
 | [Vim](https://www.vim.org/) |  
+| [WebStorm](https://www.jetbrains.com/webstorm/)|
+
 
 [⬆ back to top](#table-of-contents)
 
@@ -340,6 +348,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | [GTmetrix](https://gtmetrix.com/) |  
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
+| [Estimator](https://estimator.dev/) |
 
 [⬆ back to top](#table-of-contents)
 
